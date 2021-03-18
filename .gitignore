@@ -12,6 +12,10 @@
 
 ToegankelijkheidGame/[Ll]ibrary/
 ToegankelijkheidGame/[Tt]emp/
+ToegankelijkheidGame Prototype/ToegankelijkheidGame/[Ll]ibrary/
+ToegankelijkheidGame Prototype/ToegankelijkheidGame/[Tt]emp/
+ToegankelijkheidGame Prototype/TINY/ToegankelijkheidGameTiny/[Ll]ibrary/
+ToegankelijkheidGame Prototype/TINY/ToegankelijkheidGameTiny/[Tt]emp/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
